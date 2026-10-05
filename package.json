@@ -1,0 +1,13 @@
+{
+  "name": "twinmind-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TwinMind -> OpenAI-compatible proxy (patched: full system prompt, tools passthrough)",
+  "main": "twinmind_proxy.js",
+  "scripts": {
+    "start": "node twinmind_proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
